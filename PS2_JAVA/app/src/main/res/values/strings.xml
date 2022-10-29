@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Falsz</string>
+    <string name="button_next">Nastepne</string>
+    <string name="button_hint">Podpowiedz</string>
+    <string name="hint_prompt">Czy na pewno chcesz zobaczyc podpowiedz?</string>
+    <string name="show_answer_button">Pokaz podpowiedz</string>
+    <string name="answer_text_view"></string>
+    <string name="answer_was_shown">WYKRYTO PROBE OSZUKANIA SYSTEMU CYBERINFORMATYCZNEGO. INFORMACJA O TEJ PROBIE ZOSTANIE PRZEKAZANA DO DZIEKANATU.</string>
+
+
+    <string name="q_dog">Pies ma ogon</string>
+    <string name="q_cat">Kot na ma 5 lap</string>
+    <string name="q_proboscis">Nosacze maja duze nosy</string>
+    <string name="q_rodent">Szczury i myszy sa tych samych rozmiarow</string>
+
+    <string name="correct_answer">Poprawna odpowiedz</string>
+    <string name="incorrect_answer">Niepoprawna odpowiedz</string>
+
+</resources>
